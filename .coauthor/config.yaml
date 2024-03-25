@@ -6,13 +6,15 @@ ProductDescription: |
 Market:
   - EU
   - UK
+BugTrackingProjectLink: https://github.com/orgs/michaelcychan-org/projects/1
 SoftwareClassification:
   Questions:
     HazardousSituationPossible: false
   SafetyClass: A
   Rationale: |
     This is a class A rationale
-    This is a class A rationale
+    Line 2  
+    Line 3
 TestingTools:
   SystemTesting:
     - Selenium
@@ -24,4 +26,22 @@ TestingTools:
   CompatabilityTesting:
     - BrowserStack
     - SauceLabs
-BugTrackingProjectLink: https://github.com/orgs/michaelcychan-org/projects/18
+Roles:
+  Management:
+    Lead: michaelcychan
+    Members:
+      - michaelcychan
+      - michaelchansecond
+  QARA:
+    Lead: michaelcychan
+    Members:
+      - michaelcychan
+      - michaelchansecond
+  SWDevelopment:
+    Lead: michaelcychan
+    Members:
+      - michaelcychan-org/michaelcychan-org-team
+  Clinical:
+    Lead: michaelchansecond
+    Members:
+      - michaelcychan-org/michaelcychan-org-team
