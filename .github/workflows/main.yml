@@ -17,6 +17,7 @@ jobs:
         with:
           evidence: 'system-verification'
           type: 'BDD'
+          switem: 'sw-item-from-demo-practice'
           format: 'serenity'
           hostname: 'fwayc8hzl4.execute-api.eu-west-2.amazonaws.com'
           path: 'reports/**'
