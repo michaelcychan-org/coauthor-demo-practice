@@ -1,6 +1,5 @@
 ---
-category: development
-title: architure
+title: Architure Overview
 ---
 
 # Architure Documentation
